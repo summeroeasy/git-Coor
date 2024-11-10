@@ -1,4 +1,4 @@
 package org.example.nodeList;
 
-public class KKK {
+public class KK{
 }
